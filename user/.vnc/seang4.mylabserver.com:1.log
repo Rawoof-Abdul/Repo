@@ -1,0 +1,24 @@
+
+Xvnc TigerVNC 1.8.0 - built May 17 2017 20:42:27
+Copyright (C) 1999-2017 TigerVNC Team and many others (see README.txt)
+See http://www.tigervnc.org for information on TigerVNC.
+Underlying X server release 11702000, The X.Org Foundation
+
+
+Wed Oct 18 16:12:01 2017
+ vncext:      VNC extension running!
+ vncext:      Listening for VNC connections on all interface(s), port 5901
+ vncext:      created VNC server for screen 0
+
+Wed Oct 18 16:12:06 2017
+ ComparingUpdateTracker: 0 pixels in / 0 pixels out
+ ComparingUpdateTracker: (1:-nan ratio)
+
+Wed Oct 18 16:12:15 2017
+ Connections: accepted: 52.70.226.178::23035
+
+Wed Oct 18 16:12:16 2017
+ SConnection: Client needs protocol version 3.8
+ SConnection: Client requests security type VncAuth(2)
+ VNCSConnST:  Server default pixel format depth 24 (32bpp) little-endian rgb888
+ VNCSConnST:  Client pixel format depth 24 (32bpp) little-endian rgb888
